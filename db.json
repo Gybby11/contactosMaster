@@ -1,0 +1,16 @@
+{
+"Contactos":[
+{
+"id": 1,
+"Nombre": "Carlos",
+"Apellido": "Orozco",
+"Telefoono": "4761234567"
+},
+{
+"id": 2,
+"Nombre": "Sarahi",
+"Apelido": "Rivas",
+"Telefono": "4769109493"
+}
+]
+}
